@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Soon to be Data Analyst
+23
+Attending Lambda School
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thompsondylan3306@gmail.com](mailto:thompsondylan3306@gmail.com)
