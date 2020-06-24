@@ -14,7 +14,7 @@ avatar: https://github.com/thompsondylan33/thompsondylan/blob/master/images/Data
 #
 # Flags below are optional
 #
-
+theme: jekyll-theme-slate
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -85,4 +85,3 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-cayman
