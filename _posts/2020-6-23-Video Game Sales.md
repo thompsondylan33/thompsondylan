@@ -4,6 +4,6 @@ title: Video Game Sales
 ---
 
 
-![Qualifiers](https://i.imgur.com/9f336pR.png)
+![Qualifiers](https://github.com/thompsondylan33/thompsondylan/blob/master/images/NA_sales.PNG?raw=true)
 
 
