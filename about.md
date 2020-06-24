@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-*Soon to be Data Analyst
-*23
-*Attending Lambda School
+* Soon to be Data Analyst
+* 23
+* Attending Lambda School
 
 ### Contact me
 
