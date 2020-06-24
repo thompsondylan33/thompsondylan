@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/thompsondylan33
+  github: thompsondylan33
   instagram:
   linkedin:
   pinterest:
@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-Minimal Mistakes
