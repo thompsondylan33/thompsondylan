@@ -41,7 +41,7 @@ With this we can conclude that once again “Action” is the most popular of al
 
 When looking at action games as some of the regions least popular games we must remember that it is simply  because of the sheer number of Action games that are produced, as when an Acton game is undersold it is commonly  undersold in every region, but even still Japan seems to differ from North America and Europe
 
-![Qualifiers](https://github.com/thompsondylan33/thompsondylan/blob/master/images/Low_games.PNG)
+![Qualifiers](https://github.com/thompsondylan33/thompsondylan/blob/master/images/Low_games.PNG?raw=true)
 
 
 In Japan, the video games sales vary extremely when compared to that of Europe and North America. While  in the other 2 regions “Action” is at the top of the charts in every category, in Japan “Role-Playing” has  by far the most amount of games sold that made over $1million and “Action” is in 5th place – behind “platform”, “Sports”,  and “Misc.”. While “Action” and “Sports” has the most games that are undersold.
