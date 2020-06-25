@@ -60,3 +60,5 @@ In North America and Europe the most popular genre of games sold are in the “A
 popular games are in the “Role-Playing” category. Inversely, the least popular games in North America, and Europe are “Action”,  
 “Adventure”, “Misc.” and “Role-Playing”, while in Japan the least popular games sold are “Action” and “Sports”. So in conclusion,  
 Games sales in Europe and North America are very similar while Game sales in Japan differ greatly.
+
+[Notebook Used](https://colab.research.google.com/drive/1Cq3v6Z9FGVg7ToxOsUGCI5XFrXDULpl5?usp=sharing)
