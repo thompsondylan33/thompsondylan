@@ -20,7 +20,7 @@ I have gathered a DataFrame containing Video Game sales from 1990 - 2013  and th
 *	Strategy
 Misc. is going to refer to any game that does not fit nicely into any of the other categories.
 
-I have grouped all of the Video Games by how much money they made, for the highest earning games  (over $1 million) I have labeled them “Very Good”, the next highest grossing games (from $1hundred thousand - $1million)  “Good”, Video games grossing from $10,000 to $100,000 are labeled as “Medium”, and finally Games grossing under $10,000 are labeled as “Low”.
+I have grouped all of the Video Games by how much money they made, for the highest earning games  (over $1 million) I have labeled them “Very Good”, the next highest grossing games (from $100,000 - $1million)  “Good”, Video games grossing from $10,000 to $100,000 are labeled as “Medium”, and finally Games grossing under $10,000 are labeled as “Low”.
 
 
 When we look at the video game sales in North America, we can clearly tell that “Action” Games are overwhelmingly  more popular than any other Genre, but also “Action” has some of the most games that sold under $10,000, but that  might be because of the sheer amount of games that are in the “Action” genre. Another Genre that has the same amount of undersold Games is “Adventure”.
