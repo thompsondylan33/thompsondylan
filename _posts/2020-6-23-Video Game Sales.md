@@ -62,6 +62,7 @@ and “Misc.”. While “Action” and “Sports” has the most games that are
 
 While Role-Playing games did not sell so well in North America or Europe, there are still some well known Games in that list,  
 like the very well known 'Final Fantasy' games.
+
 ![Qualifiers](https://github.com/thompsondylan33/thompsondylan/blob/master/images/RP_games.PNG?raw=true)
 
 After looking at all that data we can conclude that different genres of games do sell differently in different regions.  
