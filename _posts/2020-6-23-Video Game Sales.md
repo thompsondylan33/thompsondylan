@@ -40,6 +40,7 @@ When looking at the Video Game Sales in Europe, they are remarkably like that of
 With this we can conclude that once again “Action” is the most popular of all the games sold,  while “Adventure”, “Action”, and “Misc.”  are the least popular.
 
 When looking at action games as some of the regions least popular games we must remember that it is simply  because of the sheer number of Action games that are produced, as when an Acton game is undersold it is commonly  undersold in every region, but even still Japan seems to differ from North America and Europe
+
 ![Qualifiers](https://github.com/thompsondylan33/thompsondylan/blob/master/images/Low_games.PNG)
 
 
