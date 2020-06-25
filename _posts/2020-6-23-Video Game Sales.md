@@ -39,6 +39,7 @@ and “Adventure” is the least popular sold in North America.
 
 
 When looking at the Video Game Sales in Europe, they are remarkably like that of North America.
+
 ![Qualifiers](https://github.com/thompsondylan33/thompsondylan/blob/master/images/AC_games.PNG?raw=true)
 
 “Action” once again has a vast number of games that made over $1million, while it also has the most amount of  
