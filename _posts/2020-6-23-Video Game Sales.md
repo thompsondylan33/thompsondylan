@@ -5,7 +5,7 @@ title: Video Game Sales
 ## Hypothesis
 ### Are Different Genres of Video Games More or Less Popular in Different Countries?
 
-I have gathered a DataFrame containing Video Game sales from 1990 - 2013  and their Total sales, North American sales, and Japanese sales.I have chosen to compare these 3 regions because their sales are most  prevalent in the video games industry. The genres on my dataframe getting compared are
+I have gathered a DataFrame containing Video Game sales from 1990 - 2013  and their Total sales, European Sales, North American sales, and Japanese sales.I have chosen to compare these 3 regions because their sales are most  prevalent in the video games industry. The genres on my dataframe getting compared are
 *	Action
 *	Adventure
 *	Fighting
@@ -18,6 +18,7 @@ I have gathered a DataFrame containing Video Game sales from 1990 - 2013  and th
 *	Simulation
 *	Sports
 *	Strategy
+
 Misc. is going to refer to any game that does not fit nicely into any of the other categories.
 
 I have grouped all of the Video Games by how much money they made, for the highest earning games  (over $1 million) I have labeled them “Very Good”, the next highest grossing games (from $100,000 - $1million)  “Good”, Video games grossing from $10,000 to $100,000 are labeled as “Medium”, and finally Games grossing under $10,000 are labeled as “Low”.
